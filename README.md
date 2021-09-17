@@ -1,5 +1,3 @@
-# Dieter Rams' [principles of good design](https://ifworlddesignguide.com/design-specials/dieter-rams-10-principles-for-good-design) applied to software
-
 ![Principles of good design applied to software](./good-software.png)
 
 ## 1. Good software is innovative
